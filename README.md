@@ -4,7 +4,8 @@
 ## Description
 531 hours of noise data in in-car scene. It contains various vehicle models, road types, vehicle speed and car windoe close/open condition. Six recording points are placed to record the noise situation at different positions in the vehicle and accurately match the vehicle noise modeling requirements.
 
-For more details, please refer to the link: https://bit.ly/3fk0qle
+For more details, please refer to the link: https://www.nexdata.ai/datasets/233?source=Github
+
 
 ## Format
 microphone 32kHz 32bit,wav mono channel ; mobile phone: 16kHz, 16bit, mono channel
