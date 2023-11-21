@@ -29,4 +29,4 @@ annotation result contaning road type, weather, air conditioning switch and othe
 noise modelling
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
